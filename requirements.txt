@@ -2,3 +2,4 @@ streamlit
 streamlit-audiorecorder
 openai
 gTTS
+audioop-lts
